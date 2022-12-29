@@ -7,6 +7,8 @@ Pembuatan project Rest API Artikel CRUD ini menggunkan stack LARAVEL dan penduku
 - Resource API      : Menggunakan metode reseource untuk lebih leluasa mengubah API
 - Middleware Custom : Supaya tidak menulis code berulang kali ketika code tersebut sering digunakan.
 
+![1s3bedypkt7zm8maikzg](https://user-images.githubusercontent.com/93973382/209924532-188e4755-03a8-42b8-b09a-83d3805ca370.jpg)
+
  
  
  <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
