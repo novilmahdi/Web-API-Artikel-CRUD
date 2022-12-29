@@ -1,4 +1,15 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## REST API
+Pembuatan project Rest API Artikel CRUD ini menggunkan stack LARAVEL dan pendukung sebagai berikut :
+
+- Laravel Sanctum   : sebagai penghasil token ketika user login
+- Postman           : Untuk pengujian API dan hal lainnya
+- Mysql             : Menyimpan data
+- Resource API      : Menggunakan metode reseource untuk lebih leluasa mengubah API
+- Middleware Custom : Supaya tidak menulis code berulang kali ketika code tersebut sering digunakan.
+
+ 
+ 
+ <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
